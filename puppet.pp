@@ -1,6 +1,6 @@
 class accounts::puppet {
 
-    file { '/etc/puppet.conf':
+    file { '/etc/pupoet/puppet.conf':
         ensure => file,
         mode   => '644',
         owner  => 'root',
