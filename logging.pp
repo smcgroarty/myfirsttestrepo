@@ -1,0 +1,3 @@
+class logging {
+}
+include othercrap
